@@ -1,4 +1,4 @@
-# Simple Inventory Management System
+# Inventory Management System
 
 ## Overview
 This project is a bash script-based inventory management system designed for educational purposes in the Systems Programming course. The script allows users to manage inventory items through basic CRUD operations — create, read, update, and delete. Each item's information is stored in individual text files within a local directory, emphasizing fundamental file handling and shell scripting techniques.
